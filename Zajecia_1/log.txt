@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-05-20T12:05:05</date>
+  <millis>1463738705713</millis>
+  <sequence>0</sequence>
+  <logger>mod09.ex01</logger>
+  <level>INFO</level>
+  <class>mod09.ex01.MainHandler</class>
+  <method>addCustomer</method>
+  <thread>1</thread>
+  <message>Do biura podóży dodano nowego klienta: Name: Piotr Kowalski
+Address: Adresss 33
+ 
+</message>
+</record>

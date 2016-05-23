@@ -1,0 +1,4 @@
+jur: Jurata, 700PLN,
+	from 2004/8/1 to 2004/8/14
+egi: Egipt, 1400PLN,
+	from 2004/8/1 to 2004/8/14
